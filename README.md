@@ -1,22 +1,52 @@
-# 💫 About Me:
-🔭 I’m currently working on refining: My coding skills and building a diverse portfolio of projects that showcase my knowledge in web development, AI, and mobile app design.<br><br>👯 I’m looking to collaborate on: Open-source projects related to environmental sustainability and educational tools, especially those that leverage AI to make learning more accessible.<br><br>🤝 I’m looking for help with: Understanding advanced concepts in machine learning and data science. I'm also seeking advice on best practices for code optimization, data analytics techniques, and design patterns.<br><br>🌱 I’m currently learning: Advanced Database Systems, Information Modelling, and preparing for my AWS Foundation Certificate.<br><br>💬 Ask me about Anything related to Python, MERN stack development, or my experience interning in software development roles across different countries.<br>⚡ Fun fact: I can make a cracking noise with my fingers by choice, and I recently started dedicating time to get in better shape through a combination of workouts and healthy eating!
+# 🚀 Satvik Saxena - Full Stack Developer | AI Enthusiast | Cloud & DevOps Explorer  
 
+## 💡 About Me:
+👋 Hi there! I'm **Satvik Saxena**, a passionate **Full Stack Developer** with expertise in **Java, React, Node.js, and AI-powered solutions**. I specialize in designing and deploying **scalable, secure, and user-centric applications**, and I love collaborating on cutting-edge projects.  
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/satviksaxena/) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-<!-- 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DevSatvik&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=DevSatvik&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DevSatvik&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=DevSatvik&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 🔍 What I’m Up To:
+- 🎯 Currently seeking **Full Stack, AI, or DevOps roles**.
+- 🛠️ Building **AI-driven applications, microservices, and scalable cloud-native solutions**.
+- 🏆 Preparing for **AWS Certified Cloud Practitioner & DevOps Certifications**.
+- 🌍 Contributing to **open-source projects** that drive social and technological impact.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=DevSatvik&icon=0&color=0)](https://visitcount.itsvg.in)
--->
+
+## 🏆 Featured Projects: 
+🔹 **Pacman AI Agent** - Developed **AI-powered pathfinding algorithms** to optimize game strategies.  
+🔹 **Azul Board Game AI** - Engineered **Monte Carlo Tree Search-based AI** for competitive gameplay.  
+🔹 **Image Similarity Model** - Built a **deep learning-based image classifier** with **Siamese neural networks**.  
+
+💡 Want to see my projects in action? **[Check out my portfolio](https://satviksaxena.com/)**.  
+
+---
+
+## 🔥 Technical Skills:
+### **Languages & Frameworks**:
+- **Programming:** Java, Python, TypeScript, JavaScript, C, C++  
+- **Frontend:** React.js, Next.js, Tailwind CSS, Material UI  
+- **Backend:** Node.js, Express.js, Flask, Spring Boot, GraphQL  
+- **Databases:** PostgreSQL, MongoDB, MySQL, Microsoft SQL Server  
+
+### **DevOps & Cloud**:
+- **Cloud:** AWS (S3, Lambda, API Gateway, EC2, RDS), Azure, OCI  
+- **CI/CD & Automation:** GitHub Actions, Jenkins, Docker, Kubernetes, Terraform  
+- **Testing:** Jest, Mocha, Cypress, Selenium  
+
+### **AI & Machine Learning**:
+- TensorFlow, PyTorch, Scikit-learn, Hugging Face, MLflow  
+- Large Language Models (LLMs), Transfer Learning, Generative AI  
+
+### **Other Tools**:
+- Git, GitHub, BitBucket, Jira, Trello, Lark  
+- Agile (Scrum/Kanban), Test-Driven Development (TDD)  
+
+---
+
+## 🌍 Let's Connect!
+📬 **Email:** [saxena2satvik@gmail.com](mailto:saxena2satvik@gmail.com)  
+💼 **LinkedIn:** [Satvik Saxena](https://www.linkedin.com/in/satviksaxena/)  
+🌎 **Portfolio:** [satviksaxena.com](https://satviksaxena.com/)  
+💻 **GitHub:** [DevSatvik](https://github.com/DevSatvik)  
+
+---
+
