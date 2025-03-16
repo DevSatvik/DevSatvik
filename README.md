@@ -1,52 +1,39 @@
-# 🚀 Satvik Saxena - Full Stack Developer | AI Enthusiast | Cloud & DevOps Explorer  
+# 🚀 Satvik Saxena – Full Stack Developer | AI & Cloud Enthusiast  
 
-## 💡 About Me:
-👋 Hi there! I'm **Satvik Saxena**, a passionate **Full Stack Developer** with expertise in **Java, React, Node.js, and AI-powered solutions**. I specialize in designing and deploying **scalable, secure, and user-centric applications**, and I love collaborating on cutting-edge projects.  
+## 👋 About Me  
+Hey there! I'm **Satvik Saxena**, a **Full Stack Developer** who loves working on **AI, Cloud, and DevOps**. I build **smart, scalable, and user-friendly applications** and enjoy working on cutting-edge tech.  
 
-### 🔍 What I’m Up To:
-- 🎯 Currently seeking **Full Stack, AI, or DevOps roles**.
-- 🛠️ Building **AI-driven applications, microservices, and scalable cloud-native solutions**.
-- 🏆 Preparing for **AWS Certified Cloud Practitioner & DevOps Certifications**.
-- 🌍 Contributing to **open-source projects** that drive social and technological impact.
+### 🔥 What I’m Doing Now  
+- 👀 Looking for **Full Stack, AI, or DevOps roles**.  
+- 🛠️ Building **AI-driven apps & cloud-based solutions**.  
+- 🌍 Contributing to **open-source projects**.  
+- 📚 Learning **AWS & DevOps**.  
 
----
 
-## 🏆 Featured Projects: 
-🔹 **Pacman AI Agent** - Developed **AI-powered pathfinding algorithms** to optimize game strategies.  
-🔹 **Azul Board Game AI** - Engineered **Monte Carlo Tree Search-based AI** for competitive gameplay.  
-🔹 **Image Similarity Model** - Built a **deep learning-based image classifier** with **Siamese neural networks**.  
+## 🛠️ Skills  
 
-💡 Want to see my projects in action? **[Check out my portfolio](https://satviksaxena.com/)**.  
+### **Frontend**  
+🖥️ React.js · Next.js · TypeScript · Tailwind CSS  
 
----
+### **Backend**  
+⚙️ Node.js · Express.js · FastAPI · GraphQL  
 
-## 🔥 Technical Skills:
-### **Languages & Frameworks**:
-- **Programming:** Java, Python, TypeScript, JavaScript, C, C++  
-- **Frontend:** React.js, Next.js, Tailwind CSS, Material UI  
-- **Backend:** Node.js, Express.js, Flask, Spring Boot, GraphQL  
-- **Databases:** PostgreSQL, MongoDB, MySQL, Microsoft SQL Server  
+### **Databases**  
+🗄️ MongoDB · PostgreSQL · MySQL  
 
-### **DevOps & Cloud**:
-- **Cloud:** AWS (S3, Lambda, API Gateway, EC2, RDS), Azure, OCI  
-- **CI/CD & Automation:** GitHub Actions, Jenkins, Docker, Kubernetes, Terraform  
-- **Testing:** Jest, Mocha, Cypress, Selenium  
+### **Cloud & DevOps**  
+☁️ AWS (Lambda, S3, API Gateway) · Docker · Kubernetes · Terraform  
 
-### **AI & Machine Learning**:
-- TensorFlow, PyTorch, Scikit-learn, Hugging Face, MLflow  
-- Large Language Models (LLMs), Transfer Learning, Generative AI  
+### **AI & ML**  
+🧠 OpenAI · TensorFlow · PyTorch · LangChain  
 
-### **Other Tools**:
-- Git, GitHub, BitBucket, Jira, Trello, Lark  
-- Agile (Scrum/Kanban), Test-Driven Development (TDD)  
+### **Tools & Other**  
+🛠️ GitHub · GitHub Actions · Postman · CI/CD  
 
 ---
 
-## 🌍 Let's Connect!
-📬 **Email:** [saxena2satvik@gmail.com](mailto:saxena2satvik@gmail.com)  
+## 📬 Let's Connect!  
+📩 **Email:** [saxena2satvik@gmail.com](mailto:saxena2satvik@gmail.com)  
 💼 **LinkedIn:** [Satvik Saxena](https://www.linkedin.com/in/satviksaxena/)  
 🌎 **Portfolio:** [satviksaxena.com](https://satviksaxena.com/)  
 💻 **GitHub:** [DevSatvik](https://github.com/DevSatvik)  
-
----
-
